@@ -2,4 +2,4 @@
 nobody look at this
 
 uh
-I'm Chris. I like to code. I'm currently suffering through college so that I can become a videogame developer.
+I'm Chris. I like to code. I'm currently attempting to understand GitHub.
